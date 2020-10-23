@@ -28,8 +28,8 @@ let m13 = new Movies("ID013", "Parásitos", 2019, "suspense", "Song Kang Ho", "h
 let m14 = new Movies("ID014", "La tostadora valiente", 1989, "animación", "Toaster", "https://pbs.twimg.com/media/EU2hmvRX0AAipi2.jpg");
 let m15 = new Movies("ID0015", "Una jaula de grillos", 1996, "comedia", "Robin Williams", "https://pics.filmaffinity.com/Una_jaula_de_grillos-445695732-large.jpg");
 let m16 = new Movies("ID016", "El Padrino", 1972, "drama", "Al Pacino", "https://pics.filmaffinity.com/El_padrino-500674179-large.jpg")
-let m17 = new Movies("ID0017", "La Vida es bella", 1999, "Roberto Benigni",)
-let m18 = new Movies("ID018", "Forrest Gump", 1994, "Tom Hanks", )
-let m19 = new Movies("ID019", "Intocable", 2012, "François Cluzet", )
-let m20 = new Movies("ID020", "Cadena Perpetua", 1995, "Morgan Freeman",)
+let m17 = new Movies("ID0017", "La Vida es bella", 1999, "Roberto Benigni", "https://images-na.ssl-images-amazon.com/images/I/51XcLlHl-xL._AC_UL320_SR224,320_.jpg")
+let m18 = new Movies("ID018", "Forrest Gump", 1994, "Tom Hanks", "https://pics.filmaffinity.com/Forrest_Gump-166768337-large.jpg")
+let m19 = new Movies("ID019", "Intocable", 2012, "François Cluzet", "https://pics.filmaffinity.com/Intocable-218166359-large.jpg")
+let m20 = new Movies("ID020", "Cadena Perpetua", 1995, "Morgan Freeman", "https://images-na.ssl-images-amazon.com/images/I/71cyqt3GXYL._SL1071_.jpg")
 
